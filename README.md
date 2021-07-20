@@ -1,5 +1,6 @@
-# pokeapi
+# PokeApi
 
+![PokeApi](/src/assets/pokeapi.png "'PokeApi'")
 ## Project setup
 ```
 yarn install
