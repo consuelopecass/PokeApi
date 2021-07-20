@@ -34,7 +34,7 @@ export default {
                 moves: [],
                 abilities: [],
             },
-            search: ''
+            search: 'pikachu'
         };
     },
     computed: {
@@ -85,7 +85,7 @@ export default {
     },
      // -- Lifecycle methods
     created(){
-        this.agregarPokemon(); 
+        this.buscarPokemon(); 
     },
     
 }
